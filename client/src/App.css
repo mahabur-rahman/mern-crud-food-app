@@ -1,0 +1,29 @@
+*,
+::before,
+::after {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: blanchedalmond;
+}
+
+a {
+    text-decoration: none;
+}
+
+ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.py-5 {
+    padding: 5rem 0;
+}
+
+.border {
+    border: 1px solid red;
+}
